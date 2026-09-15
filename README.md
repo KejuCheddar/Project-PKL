@@ -86,11 +86,7 @@ This CRUD implementation allows users to manage data directly through the web in
 ## 🛠️ Technologies
 
 The project was developed using web development technologies and a database system.
-
-> The exact technology stack can be added here based on the technologies used in the project.
-
-For example:
-
+Using:
 * HTML
 * CSS
 * JavaScript
@@ -101,7 +97,6 @@ For example:
 ## 👨‍💻 My Role
 
 During my **Practical Work Experience (PKL)**, I was involved in the development of the Inventory and Attendance Management System.
-
 My responsibilities included:
 
 * Developing web-based inventory management features.
@@ -116,7 +111,6 @@ My responsibilities included:
 * Collaborating during the development process.
 
 ## 📚 Skills Gained
-
 Through this project, I gained practical experience in:
 
 * Web Development
