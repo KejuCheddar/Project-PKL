@@ -94,7 +94,6 @@ For example:
 * HTML
 * CSS
 * JavaScript
-* PHP
 * MySQL
 * Git
 * GitHub
@@ -136,15 +135,12 @@ Through this project, I gained practical experience in:
 
 ### Dashboard
 
-*Add screenshot of the dashboard here.*
 
 ### Inventory Management
 
-*Add screenshot of the inventory page here.*
 
 ### Attendance Management
 
-*Add screenshot of the attendance page here.*
 
 ## 🎓 Internship Experience
 
@@ -165,4 +161,3 @@ This repository serves as documentation and a portfolio of the project developed
 ---
 
 **Developed during Practical Work Experience (PKL)**
-**Kementerian Hukum dan HAM**
