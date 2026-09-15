@@ -1,70 +1,168 @@
-# Getting Started with Create React App
+# Inventory & Attendance Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web-based **Inventory and Attendance Management System** developed during my **Practical Work Experience (PKL)** at Kementerian Hukum dan HAM.
 
-## Available Scripts
+This project was developed to support the management of **inventory data and attendance records** through a centralized web application. The system implements **CRUD (Create, Read, Update, Delete)** operations to make data management more structured, efficient, and easier to maintain.
 
-In the project directory, you can run:
+## 📌 Project Overview
 
-### `npm start`
+During my PKL, I contributed to the development of a web-based system for managing organizational data, particularly **inventory and attendance information**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The system provides users with functionality to manage data directly through the website, including adding new records, viewing existing records, updating information, and deleting unnecessary records.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The main development concept implemented in this project is **CRUD functionality**.
 
-### `npm test`
+## 🎯 Objectives
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The objectives of this project are:
 
-### `npm run build`
+* Digitalize inventory and attendance management.
+* Simplify the process of managing organizational data.
+* Reduce manual data management.
+* Centralize inventory and attendance records.
+* Implement CRUD operations for efficient data management.
+* Improve the accessibility and organization of administrative data.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ✨ Main Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 📦 Inventory Management
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The inventory module is used to manage and monitor inventory records.
 
-### `npm run eject`
+The system supports:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* **Create** — Add new inventory records.
+* **Read** — Display and view inventory data.
+* **Update** — Modify existing inventory information.
+* **Delete** — Remove inventory records.
+* Manage inventory information through a structured interface.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🕐 Attendance Management
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The attendance module is used to manage attendance records.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The system supports:
 
-## Learn More
+* **Create** — Add new attendance records.
+* **Read** — View attendance information and history.
+* **Update** — Modify attendance records.
+* **Delete** — Remove incorrect or unnecessary records.
+* Manage attendance data in an organized manner.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🔄 CRUD Implementation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+One of the main concepts implemented in this project is **CRUD (Create, Read, Update, Delete)**.
 
-### Code Splitting
+| Operation  | Function                             |
+| ---------- | ------------------------------------ |
+| **Create** | Add new inventory or attendance data |
+| **Read**   | Display and view stored data         |
+| **Update** | Edit existing records                |
+| **Delete** | Remove records from the system       |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This CRUD implementation allows users to manage data directly through the web interface without manually modifying the database.
 
-### Analyzing the Bundle Size
+## 🏗️ System Workflow
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```text
+                    Web Application
+                          │
+                          ▼
+                     Dashboard
+                          │
+             ┌────────────┴────────────┐
+             │                         │
+             ▼                         ▼
+        Inventory                  Attendance
+             │                         │
+             ▼                         ▼
+        CRUD Operations          CRUD Operations
+             │                         │
+             └────────────┬────────────┘
+                          ▼
+                       Database
+```
 
-### Making a Progressive Web App
+## 🛠️ Technologies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The project was developed using web development technologies and a database system.
 
-### Advanced Configuration
+> The exact technology stack can be added here based on the technologies used in the project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+For example:
 
-### Deployment
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+* Git
+* GitHub
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 👨‍💻 My Role
 
-### `npm run build` fails to minify
+During my **Practical Work Experience (PKL)**, I was involved in the development of the Inventory and Attendance Management System.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+My responsibilities included:
+
+* Developing web-based inventory management features.
+* Developing attendance management features.
+* Implementing CRUD functionality.
+* Creating and managing data input forms.
+* Implementing data display and management.
+* Working with database operations.
+* Testing system functionality.
+* Identifying and fixing bugs.
+* Improving the usability of the system.
+* Collaborating during the development process.
+
+## 📚 Skills Gained
+
+Through this project, I gained practical experience in:
+
+* Web Development
+* CRUD Implementation
+* Database Management
+* Frontend Development
+* Backend Development
+* Database Operations
+* Debugging and Testing
+* Problem Solving
+* Git & GitHub
+* Team Collaboration
+* Software Development
+
+## 📸 Screenshots
+
+### Dashboard
+
+*Add screenshot of the dashboard here.*
+
+### Inventory Management
+
+*Add screenshot of the inventory page here.*
+
+### Attendance Management
+
+*Add screenshot of the attendance page here.*
+
+## 🎓 Internship Experience
+
+This project was developed as part of my **Practical Work Experience (PKL)**.
+
+The project provided me with an opportunity to apply programming and web development concepts in a real-world working environment. Through this experience, I learned how to develop and maintain a web-based information system while working with actual organizational requirements.
+
+It also helped me improve my technical skills, problem-solving abilities, teamwork, and understanding of the software development process.
+
+## 📌 Project Status
+
+**Completed**
+
+## 📄 Purpose
+
+This repository serves as documentation and a portfolio of the project developed during my **Practical Work Experience (PKL)**.
+
+---
+
+**Developed during Practical Work Experience (PKL)**
+**Kementerian Hukum dan HAM**
